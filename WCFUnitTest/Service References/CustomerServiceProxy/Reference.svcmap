@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a5e52c3a-37be-4f7d-9c70-deaeb9fd7ce6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/WCFDI/CustomerService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CustomerService.xsd" MetadataType="Schema" ID="a4828196-72b2-4b87-a3af-50af1eacfd87" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CustomerService.disco" MetadataType="Disco" ID="14a2cd2e-ea22-4103-8de8-412421150559" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?disco" />
+    <MetadataFile FileName="CustomerService.wsdl" MetadataType="Wsdl" ID="04f24dc5-16b5-4504-ad32-6d397730afb1" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?wsdl" />
+    <MetadataFile FileName="CustomerService1.xsd" MetadataType="Schema" ID="11220ee5-ac0b-4b83-a592-a080b401d121" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CustomerService2.xsd" MetadataType="Schema" ID="21ac799d-66eb-41c8-b52c-ded5f48405ef" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,16 @@
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExampleContracts\obj\Debug\WCFExample.Model.Resources.resources
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExampleContracts\obj\Debug\WCFExample.Model.vbproj.GenerateResource.Cache
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExampleContracts\bin\Debug\WCFExample.Model.dll
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExampleContracts\bin\Debug\WCFExample.Model.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExampleContracts\bin\Debug\WCFExample.Model.xml
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExampleContracts\obj\Debug\WCFExample.Model.dll
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExampleContracts\obj\Debug\WCFExample.Model.xml
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExampleContracts\obj\Debug\WCFExample.Model.pdb
+e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\bin\Debug\WCFExample.Model.dll
+e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\bin\Debug\WCFExample.Model.pdb
+e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\bin\Debug\WCFExample.Model.xml
+e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.Resources.resources
+e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.vbproj.GenerateResource.Cache
+e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.dll
+e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.xml
+e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.pdb
