@@ -18,7 +18,7 @@ Namespace CustomerServiceProxy
     
     <System.Diagnostics.DebuggerStepThroughAttribute(),  _
      System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0"),  _
-     System.Runtime.Serialization.DataContractAttribute(Name:="GetCustomerRequest", [Namespace]:="http://schemas.datacontract.org/2004/07/WCFTest"),  _
+     System.Runtime.Serialization.DataContractAttribute(Name:="GetCustomerRequest", [Namespace]:="http://schemas.datacontract.org/2004/07/WCFExample.Model"),  _
      System.SerializableAttribute()>  _
     Partial Public Class GetCustomerRequest
         Inherits Object
@@ -65,7 +65,7 @@ Namespace CustomerServiceProxy
     
     <System.Diagnostics.DebuggerStepThroughAttribute(),  _
      System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0"),  _
-     System.Runtime.Serialization.DataContractAttribute(Name:="GetCustomerResponse", [Namespace]:="http://schemas.datacontract.org/2004/07/WCFTest"),  _
+     System.Runtime.Serialization.DataContractAttribute(Name:="GetCustomerResponse", [Namespace]:="http://schemas.datacontract.org/2004/07/WCFExample.Model"),  _
      System.SerializableAttribute()>  _
     Partial Public Class GetCustomerResponse
         Inherits Object

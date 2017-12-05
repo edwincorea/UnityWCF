@@ -20,14 +20,14 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost/WCFDI/CustomerService.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://localhost/WCFDIExample/CustomerService.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="CustomerService.xsd" MetadataType="Schema" ID="a4828196-72b2-4b87-a3af-50af1eacfd87" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?xsd=xsd0" />
-    <MetadataFile FileName="CustomerService.disco" MetadataType="Disco" ID="14a2cd2e-ea22-4103-8de8-412421150559" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?disco" />
-    <MetadataFile FileName="CustomerService.wsdl" MetadataType="Wsdl" ID="04f24dc5-16b5-4504-ad32-6d397730afb1" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?wsdl" />
-    <MetadataFile FileName="CustomerService1.xsd" MetadataType="Schema" ID="11220ee5-ac0b-4b83-a592-a080b401d121" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?xsd=xsd2" />
-    <MetadataFile FileName="CustomerService2.xsd" MetadataType="Schema" ID="21ac799d-66eb-41c8-b52c-ded5f48405ef" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDI/CustomerService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CustomerService3.xsd" MetadataType="Schema" ID="f32fc46e-3fb7-48b8-ac79-5dbd7fc7e9f1" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDIExample/CustomerService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CustomerService1.disco" MetadataType="Disco" ID="779f3b37-efb2-4a51-bae3-cb2990899d3b" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDIExample/CustomerService.svc?disco" />
+    <MetadataFile FileName="CustomerService1.wsdl" MetadataType="Wsdl" ID="a842ea40-128c-419a-8949-de3f3734ec88" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDIExample/CustomerService.svc?wsdl" />
+    <MetadataFile FileName="CustomerService31.xsd" MetadataType="Schema" ID="9beedb3d-5d36-41a6-9123-c07858fe8519" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDIExample/CustomerService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CustomerService32.xsd" MetadataType="Schema" ID="b90fe7ff-9c8e-478e-9152-53042f53c30f" SourceId="1" SourceUrl="http://coreabe-p.central.bccr.fi.cr/WCFDIExample/CustomerService.svc?xsd=xsd2" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

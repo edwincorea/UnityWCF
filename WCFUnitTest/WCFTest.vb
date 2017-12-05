@@ -28,4 +28,20 @@ Public Class WCFTest
 
     End Sub
 
+    <TestMethod()>
+    Public Sub TestGetCustomer_ProxyClassCustomerFound_ReturnsCustomer()
+
+        Dim client As New CustomerServiceProxy.CustomerServiceClient()
+        Dim requestForSarah As New CustomerServiceProxy.GetCustomerRequest() With {
+            .CustomerId = 3
+        }
+
+        Dim response As CustomerServiceProxy.GetCustomerResponse = client.GetCustomer(requestForSarah)
+
+        Assert.IsTrue(String.Equals(response.FirstName, "Sarah"))
+        Assert.IsTrue(String.Equals(response.LastName, "Davis"))
+
+    End Sub
+
+
 End Class

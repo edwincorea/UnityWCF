@@ -7,3 +7,4 @@ e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityW
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.exe
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.xml
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.vbprojResolveAssemblyReference.cache

@@ -1,5 +1,5 @@
 ﻿<%@ ServiceHost 
     Language="vb" 
     Debug="true" 
-    Service="WCFTest.CustomerService" 
-    Factory="WCFTest.WcfServiceFactory" %>
+    Service="WCFExample.CustomerService" 
+    Factory="WCFExample.WcfServiceFactory" %>

@@ -108,14 +108,14 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="Service References\CustomerServiceProxy\CustomerService.wsdl" />
-    <None Include="Service References\CustomerServiceProxy\CustomerService.xsd">
+    <None Include="Service References\CustomerServiceProxy\CustomerService1.wsdl" />
+    <None Include="Service References\CustomerServiceProxy\CustomerService3.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\CustomerServiceProxy\CustomerService1.xsd">
+    <None Include="Service References\CustomerServiceProxy\CustomerService31.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\CustomerServiceProxy\CustomerService2.xsd">
+    <None Include="Service References\CustomerServiceProxy\CustomerService32.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="Service References\CustomerServiceProxy\WCFClient.CustomerServiceProxy.GetCustomerResponse.datasource">
@@ -129,9 +129,6 @@
     <WCFMetadataStorage Include="Service References\CustomerServiceProxy\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Service References\CustomerServiceProxy\CustomerService.disco" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Service References\CustomerServiceProxy\configuration91.svcinfo" />
   </ItemGroup>
   <ItemGroup>
@@ -142,6 +139,9 @@
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CustomerServiceProxy\CustomerService1.disco" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

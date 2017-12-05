@@ -7,6 +7,8 @@
 
         Try
             response = client.GetCustomer(request)
+            Console.WriteLine("User found: {0} {1}", response.FirstName, response.LastName)
+            Console.ReadKey()
         Catch ex As Exception
             Console.WriteLine(ex.Message)
         End Try
