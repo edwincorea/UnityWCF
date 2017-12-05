@@ -1,0 +1,17 @@
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\WCFTest.dll.config
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\WCFTest.dll
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\WCFTest.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\WCFTest.xml
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\obj\Debug\WCFTest.Resources.resources
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\obj\Debug\WCFTest.vbproj.GenerateResource.Cache
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\obj\Debug\WCFTest.dll
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\obj\Debug\WCFTest.xml
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\obj\Debug\WCFTest.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\UnityWCF.dll
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\Microsoft.Practices.Unity.dll
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\Microsoft.Practices.ServiceLocation.dll
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\UnityWCF.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\UnityWCF.xml
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\Microsoft.Practices.Unity.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\bin\Microsoft.Practices.ServiceLocation.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFTest\obj\Debug\WCFTest.vbprojResolveAssemblyReference.cache

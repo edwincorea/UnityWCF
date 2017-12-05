@@ -1,0 +1,10 @@
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\bin\Debug\WCFClient.exe.config
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\bin\Debug\WCFClient.exe
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\bin\Debug\WCFClient.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\bin\Debug\WCFClient.xml
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.vbprojResolveAssemblyReference.cache
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.Resources.resources
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.vbproj.GenerateResource.Cache
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.exe
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.xml
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFClient\obj\Debug\WCFClient.pdb
