@@ -22,3 +22,6 @@ e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityW
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFUnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFUnitTest\obj\Debug\WCFUnitTest.dll
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFUnitTest\obj\Debug\WCFUnitTest.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFUnitTest\bin\Debug\Moq.dll
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFUnitTest\bin\Debug\Moq.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFUnitTest\bin\Debug\Moq.xml
