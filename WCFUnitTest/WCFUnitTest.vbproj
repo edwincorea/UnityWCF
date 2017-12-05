@@ -83,11 +83,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FakeTestingRepository.vb" />
-    <Compile Include="Service References\CustomerServiceProxy\Reference.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
     <Compile Include="WCFTest.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -124,37 +119,6 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="Service References\CustomerServiceProxy\CustomerService1.wsdl" />
-    <None Include="Service References\CustomerServiceProxy\CustomerService3.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\CustomerServiceProxy\CustomerService31.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\CustomerServiceProxy\CustomerService32.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\CustomerServiceProxy\WCFUnitTest.CustomerServiceProxy.GetCustomerResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Service References\CustomerServiceProxy\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\CustomerServiceProxy\configuration91.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\CustomerServiceProxy\configuration.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\CustomerServiceProxy\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.vb</LastGenOutput>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WCFExample.Model\WCFExample.Model.vbproj">
@@ -165,9 +129,6 @@
       <Project>{846202EF-BF81-48E2-B274-26B105308B20}</Project>
       <Name>WCFExample</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\CustomerServiceProxy\CustomerService1.disco" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -14,3 +14,4 @@ e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityW
 e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.dll
 e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.xml
 e:\Documentos Usuarios\COREABE\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.pdb
+e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\WCFExample.Model\obj\Debug\WCFExample.Model.vbprojResolveAssemblyReference.cache
