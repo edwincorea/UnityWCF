@@ -5,12 +5,16 @@ Imports Microsoft.Practices.Unity
 Public Class UnityServiceHost
     Inherits ServiceHost
 
+    Private _container As IUnityContainer
+
     Public Sub New(ByVal container As IUnityContainer, ByVal serviceType As Type, ParamArray baseAddresses As Uri())
         MyBase.New(serviceType, baseAddresses)
 
         If container Is Nothing Then
             Throw New ArgumentNullException("container")
         End If
+
+        Me._container = container
 
         ApplyServiceBehaviors(container)
 
@@ -36,6 +40,15 @@ Public Class UnityServiceHost
                 contractDescription.Behaviors.Add(contractBehavior)
             Next
         Next
+    End Sub
+
+    Protected Overrides Sub OnOpening()
+        MyBase.OnOpening()
+
+        If Me.Description.Behaviors.Find(Of UnityServiceBehavior)() Is Nothing Then
+            Me.Description.Behaviors.Add(New UnityServiceBehavior(Me._container))
+        End If
+
     End Sub
 
 End Class

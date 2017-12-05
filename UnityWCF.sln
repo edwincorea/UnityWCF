@@ -5,9 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Unity.WCF", "UnityWCF\Unity.WCF.vbproj", "{6E00C364-D58F-4056-A658-AC780207867D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WCFTest", "WCFTest\WCFTest.vbproj", "{846202EF-BF81-48E2-B274-26B105308B20}"
-EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WCFClient", "WCFClient\WCFClient.vbproj", "{8C7295D7-2B8B-45BA-AE20-13C33D630225}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WCFUnitTest", "WCFUnitTest\WCFUnitTest.vbproj", "{57E32B4D-B2F6-439B-BFDD-55E9CE7E6D3A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WCFExample", "WCFExample\WCFExample.vbproj", "{846202EF-BF81-48E2-B274-26B105308B20}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WCFExample.Model", "WCFExample.Model\WCFExample.Model.vbproj", "{761D0577-478E-4F71-831E-4527C22760DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +23,22 @@ Global
 		{6E00C364-D58F-4056-A658-AC780207867D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E00C364-D58F-4056-A658-AC780207867D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E00C364-D58F-4056-A658-AC780207867D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{846202EF-BF81-48E2-B274-26B105308B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{846202EF-BF81-48E2-B274-26B105308B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{846202EF-BF81-48E2-B274-26B105308B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{846202EF-BF81-48E2-B274-26B105308B20}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8C7295D7-2B8B-45BA-AE20-13C33D630225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8C7295D7-2B8B-45BA-AE20-13C33D630225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C7295D7-2B8B-45BA-AE20-13C33D630225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C7295D7-2B8B-45BA-AE20-13C33D630225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E32B4D-B2F6-439B-BFDD-55E9CE7E6D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E32B4D-B2F6-439B-BFDD-55E9CE7E6D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E32B4D-B2F6-439B-BFDD-55E9CE7E6D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E32B4D-B2F6-439B-BFDD-55E9CE7E6D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846202EF-BF81-48E2-B274-26B105308B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846202EF-BF81-48E2-B274-26B105308B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846202EF-BF81-48E2-B274-26B105308B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846202EF-BF81-48E2-B274-26B105308B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761D0577-478E-4F71-831E-4527C22760DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761D0577-478E-4F71-831E-4527C22760DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761D0577-478E-4F71-831E-4527C22760DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761D0577-478E-4F71-831E-4527C22760DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

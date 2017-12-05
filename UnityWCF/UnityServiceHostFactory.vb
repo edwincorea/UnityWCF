@@ -7,8 +7,9 @@ Public MustInherit Class UnityServiceHostFactory
 
     Protected MustOverride Sub ConfigureContainer(ByVal container As IUnityContainer)
 
-    Protected Overrides Function CreateServiceHost(ByVal serviceType As Type, ByVal baseAddresses As Uri()) As ServiceHost
-        Dim container = New UnityContainer()
+    Protected Overrides Function CreateServiceHost(ByVal serviceType As Type,
+                                                   ByVal baseAddresses As Uri()) As ServiceHost
+        Dim container As New UnityContainer
 
         ConfigureContainer(container)
 

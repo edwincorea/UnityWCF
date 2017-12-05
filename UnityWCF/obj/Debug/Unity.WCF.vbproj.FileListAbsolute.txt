@@ -47,4 +47,3 @@ e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityW
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\UnityWCF\obj\Debug\UnityWCF.dll
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\UnityWCF\obj\Debug\UnityWCF.xml
 e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\UnityWCF\obj\Debug\UnityWCF.pdb
-e:\Documentos Usuarios\coreabe\Mis Documentos\Visual Studio 2015\Projects\UnityWCF\UnityWCF\obj\Debug\Unity.WCF.vbprojResolveAssemblyReference.cache
